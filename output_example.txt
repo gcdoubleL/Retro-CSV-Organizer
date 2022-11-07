@@ -1,0 +1,7 @@
+0	Artist      		Album       		Year        	
+
+
+1	Beatles     		Let It Be   		1969        	
+
+2	Madonna     		Self Titled 		1983        	
+
